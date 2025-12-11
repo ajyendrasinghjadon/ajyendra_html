@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../AJYENDRA_CSS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AJYENDRA_HTML"
+	}
+}
